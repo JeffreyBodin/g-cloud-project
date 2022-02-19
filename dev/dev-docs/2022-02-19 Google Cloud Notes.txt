@@ -1,0 +1,3 @@
+# 2022-02-19 Google Cloud Notes
+
+docker pull gcr.io/google.com/cloudsdktool/cloud-sdk:alpine
